@@ -2,6 +2,9 @@
 
 Converter application.
 
+apk file
+https://drive.google.com/file/d/1xFhhXfK7Vv5pICEE5pVmxg23m8wl5m83/view?usp=sharing
+
 The application is designed using MVP 
 approach. It has 3 view objects: MainConverterActivity,
 ConverterFragment and CurrencyListFragment with corresponding presenters.  Communication interfaces between view and presenters
